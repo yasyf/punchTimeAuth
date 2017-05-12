@@ -1,6 +1,6 @@
 module.exports = {
   dev: {
-    db: 'mongodb://localhost:27017/pAuth',
+    db: 'mongodb://127.0.0.1:27017/pAuth',
     app: {
       name: 'punchTimeAuth',
       port: 3000
